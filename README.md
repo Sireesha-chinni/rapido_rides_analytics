@@ -177,7 +177,7 @@ In `rapido_data_analysis.ipynb` I:
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/<your-username>/rapido-ride-analytics.git
+   git clone https://github.com/Sireesha-chinni/rapido-ride-analytics.git
    ```
 2. **SQL:** load `rapido_july2025_raw.csv` into MySQL, then run `rapido_july2025_cleaned_data.sql` and `rapido_data_analysis.sql`.
 3. **Python:** install the libraries and open the notebook.
@@ -203,7 +203,7 @@ In `rapido_data_analysis.ipynb` I:
 **Ch Sai Sireesha**
 Aspiring Data Analyst
 
-📧 saisireesha.chinni@example.com
+📧 saisireesha.chinni@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/sireesha-chinni) • [GitHub](https://github.com/Sireesha-chinni)
 
 ⭐ If you found this project useful, please give it a star!
