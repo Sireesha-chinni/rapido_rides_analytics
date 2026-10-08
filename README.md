@@ -203,7 +203,7 @@ In `rapido_data_analysis.ipynb` I:
 **Ch Sai Sireesha**
 Aspiring Data Analyst
 
-📧 your.email@example.com
+📧 saisireesha.chinni@example.com
 🔗 [LinkedIn](https://linkedin.com/in/sireesha-chinni) • [GitHub](https://github.com/Sireesha-chinni)
 
 ⭐ If you found this project useful, please give it a star!
