@@ -156,6 +156,10 @@ In `rapido_data_analysis.ipynb` I:
 
 `rapido_data_analysis.pbix` brings the analysis together in an interactive dashboard with KPI cards and visuals for bookings, cancellations, cities, vehicles, payments and ratings.
 
+<img width="1205" height="677" alt="dashboard-1" src="https://github.com/user-attachments/assets/00d299eb-def3-4049-9572-a4977d95910b" />
+<img width="1202" height="676" alt="dashboard-2" src="https://github.com/user-attachments/assets/a588b005-0bf5-407c-800f-8c078f4fced7" />
+<img width="1205" height="677" alt="dashboard-3" src="https://github.com/user-attachments/assets/c269a410-8640-404a-88a5-d5be6c4fb613" />
+
 
 ---
 
