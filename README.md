@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 Rapido is one of India's largest bike-taxi and auto-ride platforms. This project analyses **one month of ride data (July 2025)** across **5 cities** to answer questions a business team would actually ask:
 
